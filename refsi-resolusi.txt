@@ -4,3 +4,4 @@ refsi resolusi
 - switch career di tahun 2027
 - dapat pindah kerja
 - membuat cv baru
+- bisa jadi fullstak development
