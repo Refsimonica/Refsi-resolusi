@@ -1,8 +1,7 @@
 rencana karir ke depan
 - pindah tempat kerja
 - menguasai javascript
-- bisa belajar react
 - jadi back end development
 - gaji besar
-- belajar DOM
-- belajar python
+- belajar laravel
+- belajar PHP
