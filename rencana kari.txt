@@ -4,3 +4,5 @@ rencana karir ke depan
 - bisa belajar react
 - jadi back end development
 - gaji besar
+- belajar DOM
+- belajar python
